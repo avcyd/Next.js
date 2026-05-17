@@ -6,7 +6,7 @@ export default function About() {
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="p-1 max-w-xl">
         <div>
-          <h1>About Page</h1>
+          <h1 className="font-bold">About Page</h1>
           <p>
             Next.js is a React framework for building full-stack web
             applications. You use React Components to build user interfaces, and
