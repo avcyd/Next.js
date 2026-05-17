@@ -24,3 +24,18 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #d80909;
+  text-decoration: none;
+  text-decoration-thickness: 1.5px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
